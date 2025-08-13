@@ -97,7 +97,7 @@ export function About() {
                 </div>
 
                 <a
-                  href="https://drive.google.com/file/d/1scNn-BBvZ5T_k94xEz5xhdtf5N7mVs1J/view"
+                  href="https://drive.google.com/file/d/1aT17n6GfNfCqwlZTkmtfn1Wj-qA6AbFh/view"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative inline-flex items-center space-x-3 px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-xl font-semibold transform hover:scale-105 transition-all duration-300 hover:-translate-y-1 shadow-2xl hover:shadow-purple-500/25"
